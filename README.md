@@ -1,0 +1,3 @@
+Este programa es una aplicación gráfica desarrollada en Java utilizando Swing que permite al usuario explorar diferentes tipos de colores organizados por categorías: primarios, secundarios y terciarios.
+La interfaz presenta un menú interactivo donde el usuario puede seleccionar una categoría de colores. Al hacerlo, se muestran botones con los colores disponibles dentro de esa categoría. Al seleccionar un color, el sistema actualiza dinámicamente la pantalla mostrando el color elegido junto con su nombre.
+El programa utiliza una estructura basada en objetos mediante la clase ColorInfo, que permite asociar cada color con un nombre descriptivo, facilitando su manejo dentro de la interfaz.
